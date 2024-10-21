@@ -21,5 +21,3 @@ Temos também um botão em cada registo que nos leva até ao detalhes desse mesm
 ### <img src="https://github.com/ULHT-CM-2021-22/mini-projeto-flutter-marianasfc/blob/main/detalhes%20de%20registo.jpg" height="450" width="250">
 Neste ecrã é possível observar os registos em detalhe, com todas as informações que foram inseridas.
 
-# previsão da nota
-penso que tendo em conta a aplicação que fiz penso que a avaliação será um 10.
